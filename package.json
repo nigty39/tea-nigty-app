@@ -1,0 +1,23 @@
+{
+  "name": "tea-nigty-app",
+  "version": "1.0.0",
+  "description": "My second demo project for Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nigty39/tea-nigty-app.git"
+  },
+  "dependencies": {
+    "tea-serg": "1.0.0",
+    "tea-eightyl": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nigty39/tea-nigty-app/issues"
+  },
+  "homepage": "https://github.com/nigty39/tea-nigty-app#readme"
+}
